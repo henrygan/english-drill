@@ -1,9 +1,11 @@
 # import numpy as np
 import argparse
+import eng_to_ipa as p
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--source_path", help="source english file name", default="./source.org")
 parser.add_argument("--result_path", help="result org drill file name")
+parser.add_argument("--direction", help="english to chinese (ec) or chinse to english (ce) or both", default="ce")
 args = parser.parse_args()
 
 if args.source_path:
@@ -18,18 +20,25 @@ tbl_data = [["book", "书本"],["giant", "巨人"],["pilot", "飞行员"]]
 output_file_path = "./chinese_to_english.org"
 fwrite = open(args.result_path, "w")
 
-def output_english_to_chinese(english, chinese):
+def output_english_to_chinese(english, chinese, ipa):
     # english_syllable = f.syllabify(english)
     # print(english_syllable)
-    template = """* %(english)s :drill:
+    template = """
+* %(english)s :drill:
     :PROPERTIES:
     :VOICE:   %(english)s 
     :END:
-    [%(chinese)s] 
-    """
-    print(template % {"english": english, "chinese": chinese})
 
-def output_chinese_to_english(english, chinese):
+    [%(chinese)s] 
+
+** Pronounce
+   %(ipa)s
+    """
+    output_content = template % {"english": english, "chinese": chinese, "ipa": ipa}
+    print(output_content)
+    fwrite.write(output_content)
+
+def output_chinese_to_english(english, chinese, ipa):
     # english_syllable = f.syllabify(english)
     # print(english_syllable)
     template = """
@@ -38,15 +47,20 @@ def output_chinese_to_english(english, chinese):
     :DRILL_CARD_TYPE: hide2cloze
     :VOICE:   %(english)s 
     :END:
-    %(english)s 
+
+    %(ipa)s
+
+    [%(english)s]
 
 * %(chinese)s :drill:
    :PROPERTIES:
    :VOICE:   %(english)s 
    :END:
    [%(english)s]
+** Pronounce
+   %(ipa)s
     """
-    output_content = template % {"english": english, "chinese": chinese}
+    output_content = template % {"english": english, "chinese": chinese, "ipa": ipa}
     print(output_content)
     fwrite.write(output_content)
 
@@ -60,7 +74,16 @@ print(x_np)
 for line in x_np:
     english,chinese = line.split()
     # output_english_to_chinese(english, chinese)
-    output_chinese_to_english(english, chinese)
+    ipa = "/ " + p.convert(english) + " /"
+    if args.direction == "ce":
+        output_chinese_to_english(english, chinese, ipa)
+
+    if args.direction == "ec":
+        output_english_to_chinese(english, chinese, ipa)
+
+    if args.direction == "both":
+        output_chinese_to_english(english, chinese, ipa)
+        output_english_to_chinese(english, chinese, ipa)
 
 fread.close()
 fwrite.close()
