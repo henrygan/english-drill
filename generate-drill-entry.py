@@ -1,10 +1,22 @@
-import numpy as np
+# import numpy as np
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--source_path", help="source english file name", default="./source.org")
+parser.add_argument("--result_path", help="result org drill file name")
+args = parser.parse_args()
+
+if args.source_path:
+    print("source path : %(path)s" % {"path" : args.source_path})
+
+if args.result_path:
+    print("result path : %(path)s" % {"path" : args.result_path})
 
 input_file_path = "./source.org"
-fread = open(input_file_path, "r")
+fread = open(args.source_path, "r")
 tbl_data = [["book", "书本"],["giant", "巨人"],["pilot", "飞行员"]]
 output_file_path = "./chinese_to_english.org"
-fwrite = open(output_file_path, "w")
+fwrite = open(args.result_path, "w")
 
 def output_english_to_chinese(english, chinese):
     # english_syllable = f.syllabify(english)
