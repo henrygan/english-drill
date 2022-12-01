@@ -1,0 +1,433 @@
+
+* 帮助 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   help 
+    :END:
+
+    / hɛlp /
+
+    [help]
+
+* 帮助 :drill:
+   :PROPERTIES:
+   :VOICE:   help 
+   :END:
+   [help]
+** Pronounce
+   / hɛlp /
+    
+* 搬 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   carry 
+    :END:
+
+    / ˈkɛri /
+
+    [carry]
+
+* 搬 :drill:
+   :PROPERTIES:
+   :VOICE:   carry 
+   :END:
+   [carry]
+** Pronounce
+   / ˈkɛri /
+    
+* 举起 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   lift...up 
+    :END:
+
+    / lift...up* /
+
+    [lift...up]
+
+* 举起 :drill:
+   :PROPERTIES:
+   :VOICE:   lift...up 
+   :END:
+   [lift...up]
+** Pronounce
+   / lift...up* /
+    
+* 放好 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   put away 
+    :END:
+
+    / pʊt əˈweɪ /
+
+    [put away]
+
+* 放好 :drill:
+   :PROPERTIES:
+   :VOICE:   put away 
+   :END:
+   [put away]
+** Pronounce
+   / pʊt əˈweɪ /
+    
+* 倒空 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   empty 
+    :END:
+
+    / ˈɛmti /
+
+    [empty]
+
+* 倒空 :drill:
+   :PROPERTIES:
+   :VOICE:   empty 
+   :END:
+   [empty]
+** Pronounce
+   / ˈɛmti /
+    
+* 收集 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   collect 
+    :END:
+
+    / kəˈlɛkt /
+
+    [collect]
+
+* 收集 :drill:
+   :PROPERTIES:
+   :VOICE:   collect 
+   :END:
+   [collect]
+** Pronounce
+   / kəˈlɛkt /
+    
+* 弄干净 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   clean 
+    :END:
+
+    / klin /
+
+    [clean]
+
+* 弄干净 :drill:
+   :PROPERTIES:
+   :VOICE:   clean 
+   :END:
+   [clean]
+** Pronounce
+   / klin /
+    
+* 叠放 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   stack 
+    :END:
+
+    / stæk /
+
+    [stack]
+
+* 叠放 :drill:
+   :PROPERTIES:
+   :VOICE:   stack 
+   :END:
+   [stack]
+** Pronounce
+   / stæk /
+    
+* 分类 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   sort 
+    :END:
+
+    / sɔrt /
+
+    [sort]
+
+* 分类 :drill:
+   :PROPERTIES:
+   :VOICE:   sort 
+   :END:
+   [sort]
+** Pronounce
+   / sɔrt /
+    
+* 分发 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   hand...out 
+    :END:
+
+    / hand...out* /
+
+    [hand...out]
+
+* 分发 :drill:
+   :PROPERTIES:
+   :VOICE:   hand...out 
+   :END:
+   [hand...out]
+** Pronounce
+   / hand...out* /
+    
+* 整理 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   tidy 
+    :END:
+
+    / ˈtaɪdi /
+
+    [tidy]
+
+* 整理 :drill:
+   :PROPERTIES:
+   :VOICE:   tidy 
+   :END:
+   [tidy]
+** Pronounce
+   / ˈtaɪdi /
+    
+* 传递 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   pass 
+    :END:
+
+    / pæs /
+
+    [pass]
+
+* 传递 :drill:
+   :PROPERTIES:
+   :VOICE:   pass 
+   :END:
+   [pass]
+** Pronounce
+   / pæs /
+    
+* 折叠 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   fold 
+    :END:
+
+    / foʊld /
+
+    [fold]
+
+* 折叠 :drill:
+   :PROPERTIES:
+   :VOICE:   fold 
+   :END:
+   [fold]
+** Pronounce
+   / foʊld /
+    
+* 弹去灰尘 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   dust 
+    :END:
+
+    / dəst /
+
+    [dust]
+
+* 弹去灰尘 :drill:
+   :PROPERTIES:
+   :VOICE:   dust 
+   :END:
+   [dust]
+** Pronounce
+   / dəst /
+    
+* 喂养 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   feed 
+    :END:
+
+    / fid /
+
+    [feed]
+
+* 喂养 :drill:
+   :PROPERTIES:
+   :VOICE:   feed 
+   :END:
+   [feed]
+** Pronounce
+   / fid /
+    
+* 用拖把拖洗 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   mop 
+    :END:
+
+    / mɑp /
+
+    [mop]
+
+* 用拖把拖洗 :drill:
+   :PROPERTIES:
+   :VOICE:   mop 
+   :END:
+   [mop]
+** Pronounce
+   / mɑp /
+    
+* 浇水 :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   water 
+    :END:
+
+    / ˈwɔtər /
+
+    [water]
+
+* 浇水 :drill:
+   :PROPERTIES:
+   :VOICE:   water 
+   :END:
+   [water]
+** Pronounce
+   / ˈwɔtər /
+    
+* 我(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   me 
+    :END:
+
+    / mi /
+
+    [me]
+
+* 我(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   me 
+   :END:
+   [me]
+** Pronounce
+   / mi /
+    
+* 我们(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   us 
+    :END:
+
+    / ˈjuˈɛs /
+
+    [us]
+
+* 我们(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   us 
+   :END:
+   [us]
+** Pronounce
+   / ˈjuˈɛs /
+    
+* 你、你们(主宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   you 
+    :END:
+
+    / ju /
+
+    [you]
+
+* 你、你们(主宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   you 
+   :END:
+   [you]
+** Pronounce
+   / ju /
+    
+* 他(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   him 
+    :END:
+
+    / ɪm /
+
+    [him]
+
+* 他(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   him 
+   :END:
+   [him]
+** Pronounce
+   / ɪm /
+    
+* 她(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   her 
+    :END:
+
+    / hər /
+
+    [her]
+
+* 她(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   her 
+   :END:
+   [her]
+** Pronounce
+   / hər /
+    
+* 它(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   it 
+    :END:
+
+    / ɪt /
+
+    [it]
+
+* 它(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   it 
+   :END:
+   [it]
+** Pronounce
+   / ɪt /
+    
+* 他们(宾格) :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide2cloze
+    :VOICE:   them 
+    :END:
+
+    / ðɛm /
+
+    [them]
+
+* 他们(宾格) :drill:
+   :PROPERTIES:
+   :VOICE:   them 
+   :END:
+   [them]
+** Pronounce
+   / ðɛm /
+    

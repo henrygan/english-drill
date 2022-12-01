@@ -1,0 +1,24 @@
+help 帮助
+carry 搬
+lift...up 举起
+put away 放好
+empty 倒空
+collect 收集
+clean 弄干净
+stack 叠放
+sort 分类
+hand...out 分发
+tidy 整理
+pass 传递
+fold 折叠
+dust 弹去灰尘
+feed 喂养
+mop 用拖把拖洗
+water 浇水
+me 我(宾格)
+us 我们(宾格)
+you 你、你们(主宾格)
+him 他(宾格)
+her 她(宾格)
+it 它(宾格)
+them 他们(宾格)

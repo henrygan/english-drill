@@ -72,8 +72,9 @@ print(x_np)
 
 # for english, chinese in x_np:
 for line in x_np:
-    english,chinese = line.split()
-    # output_english_to_chinese(english, chinese)
+    words = line.split()
+    chinese = words[-1]
+    english = " ".join(words[0:-1])
     ipa = "/ " + p.convert(english) + " /"
     if args.direction == "ce":
         output_chinese_to_english(english, chinese, ipa)
