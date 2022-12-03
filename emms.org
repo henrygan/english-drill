@@ -1,0 +1,10 @@
+* install emms 
+#+begin_src emacs-lisp
+(use-package emms-setup
+  :init
+  (add-hook 'emms-player-started-hook 'emms-show)
+  (setq emms-show-format "Playing: %s")
+  :config
+  (emms-standard)
+  (emms-default-players))
+#+end_src
