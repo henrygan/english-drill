@@ -1,2 +1,4 @@
 # run
 python generate-drill-entry.py --source_path "./source.org" --result_path "2022-12-1.org" --direction both
+
+python generate-text-voice --soure_path    --result_path  --voice_common_path "c:/Users/86180/english/good-english/"
