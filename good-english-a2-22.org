@@ -1,0 +1,13 @@
+|  1 | 1 | It was Kipper's birthday.            | Kipper 生日到了               |
+|  2 | 1 | Kipper wanted a party.               | Kipper 想办一个 party         |
+|  3 | 1 | Everyone wanted to come.             | 大家都想来参加 party          |
+|  4 | 1 | Biff put up balloons.                | Biff 挂上了气球               |
+|  5 | 2 | Mum made a cake.                     | 妈妈做了一个蛋糕              |
+|  6 | 2 | Dad took a sandwich.                 | 爸爸想偷拿一个三明治          |
+|  7 | 2 | "Stop it," said Mum.                 | 妈妈说：不可以                |
+|  8 | 2 | Everyone came to the party.          | 大家都来了                    |
+|  9 | 3 | Dad wanted to play a game.           | 爸爸想玩一个游戏              |
+| 10 | 3 | But Kipper put the television on.    | 但是 Kipper 把电视打开了      |
+| 11 | 3 | "Oh no!" said Mum,a "What a mess!"   | “啊，不” 妈妈说，“真是一团糟” |
+| 12 | 3 | The children played with the bubbles | 孩子们一起玩泡泡              |
+| 13 | 3 | "What a good party!" everyone said.  | 大家都说 “这个 party 太棒了 ” |
