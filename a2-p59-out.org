@@ -1,0 +1,45 @@
+
+* 单句
+
+**  明天是假期。在你的假期你想做什么吗?你想去哪里?  :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s1.mp3 
+    :END:
+    [ It is the holidays tomorrow. What do you want to do during you holidays? Where do you want to go? ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s1.mp3][听读]]
+    
+**  我想去裕廊飞禽公园看鸟儿。                     :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s2.mp3 
+    :END:
+    [ I want to see the birds at The Jurong Bird Park.                                                  ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s2.mp3][听读]]
+    
+**  我想坐轮渡去Kusu岛。                              :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s3.mp3 
+    :END:
+    [ I want to go by ferry to Kusu Island.                                                             ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s3.mp3][听读]]
+    
+**  我想去圣淘沙岛坐单轨。                         :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s4.mp3 
+    :END:
+    [ I want to go on the monorail at Sentosa Island.                                                   ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s4.mp3][听读]]
+    
+**  我想在沙巴爬山。                                :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s5.mp3 
+    :END:
+    [ I want to climb a mountain in Sabah.                                                              ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s5.mp3][听读]]
+    
+**  我想在东海岸公园骑我的自行车。                  :drill:
+    :PROPERTIES:
+    :MP3:   c:/Users/86180/english/Unit 5/page59/s6.mp3 
+    :END:
+    [ I want to ride my bicycle in East Coast Park.                                                     ]
+    [[play:c:/Users/86180/english/Unit 5/page59/s6.mp3][听读]]
+    
