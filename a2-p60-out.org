@@ -3,29 +3,29 @@
 
 **  我想去槟城看望我的祖母。   :drill:
     :PROPERTIES:
-    :MP3:   c:/Users/86180/english/Unit 5/page60/s1.mp3 
+    :MP3:   c:/Users/86180/english/Unit 5/page60/s-02.mp3 
     :END:
     [ I want to visit my grandmother in Penang.        ]
-    [[play:c:/Users/86180/english/Unit 5/page60/s1.mp3][听读]]
+    [[play:c:/Users/86180/english/Unit 5/page60/s-02.mp3][听读]]
     
 **  我想去植物园野餐。               :drill:
     :PROPERTIES:
-    :MP3:   c:/Users/86180/english/Unit 5/page60/s2.mp3 
+    :MP3:   c:/Users/86180/english/Unit 5/page60/s-03.mp3 
     :END:
     [ I want to go on a picnic at the Botanic Gardens. ]
-    [[play:c:/Users/86180/english/Unit 5/page60/s2.mp3][听读]]
+    [[play:c:/Users/86180/english/Unit 5/page60/s-03.mp3][听读]]
     
 **  我想去武吉知马士拜访我的表亲。    :drill:
     :PROPERTIES:
-    :MP3:   c:/Users/86180/english/Unit 5/page60/s3.mp3 
+    :MP3:   c:/Users/86180/english/Unit 5/page60/s-04.mp3 
     :END:
     [ I want to visit my cousins in Bukit Timah.       ]
-    [[play:c:/Users/86180/english/Unit 5/page60/s3.mp3][听读]]
+    [[play:c:/Users/86180/english/Unit 5/page60/s-04.mp3][听读]]
     
 **  我想去动物园的夜间野生动物园。   :drill:
     :PROPERTIES:
-    :MP3:   c:/Users/86180/english/Unit 5/page60/s4.mp3 
+    :MP3:   c:/Users/86180/english/Unit 5/page60/s-05.mp3 
     :END:
     [ I want to go to the Night Safari at the zoo.     ]
-    [[play:c:/Users/86180/english/Unit 5/page60/s4.mp3][听读]]
+    [[play:c:/Users/86180/english/Unit 5/page60/s-05.mp3][听读]]
     
